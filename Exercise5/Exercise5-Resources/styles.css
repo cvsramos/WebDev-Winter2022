@@ -1,0 +1,40 @@
+@charset "utf-8";
+/*
+CSS File for the Exercise 5 HTML file (School Bus lyrics)
+Made by Carlos Ramos
+*/
+body {
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+}
+heading {    
+    font-size: 300%;
+}
+strong{ 
+    font-style: italic;
+    text-decoration:  underline;
+}
+p{
+    font-family: "Verdana", "Tahoma", sans-serif;
+    font-size: 1.2em;
+}
+
+#paragraph1{ 
+    background-color: rgba(255, 0, 0, 0.5);
+}
+#paragraph2{ 
+    background-color: rgba(0,255,0, 0.5);
+}
+#paragraph3{ 
+    background-color: rgba(0,0,255 , 0.5);
+}
+#paragraph4{ 
+    background-color: rgba(255,255,0, 0.5);
+}
+#paragraph5{ 
+    background-color: rgba(0,255,255, 0.5);
+}
+.boldText{
+    font-weight: bold;
+    }
