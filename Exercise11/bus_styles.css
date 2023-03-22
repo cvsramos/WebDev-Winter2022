@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* 
+Styles for the Bus lyrics website 
+Author: Carlos Ramos
+Date: Feb 27, 2023
+*/
+html {
+    background-image: url("https://dcassetcdn.com/design_img/3970743/553595/27107259/kdpbwk7qhv4z1der5z33t9mstz_thumbnail.png") ;
+    background-size: 200px 200px;
+}
+body {
+    background-image: linear-gradient(to right, #f6d365, #fda085);
+    border: 5px solid orange;
+    border-radius: 90px;
+    box-shadow: 10px 10px red;
+}
+h2{
+    font-size: 2em;
+    text-shadow: 2px 2px white;
+}

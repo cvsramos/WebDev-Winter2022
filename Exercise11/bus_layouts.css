@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* 
+Layout for the Bus lyrics website 
+Author: Carlos Ramos
+Date: Feb 27, 2023
+*/
+body {
+    width: 50%;
+    height: 100%;
+    margin-top: 10%;
+    margin: auto;
+    text-align: center;
+}

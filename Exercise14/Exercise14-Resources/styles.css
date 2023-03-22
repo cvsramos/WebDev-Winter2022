@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/*
+	NSCC Inspire Conference Styles
+*/
+
+#myReport{
+	border: 1px solid black;
+	height: 100px;
+	width: 50%;
+}
+
+#itinerary, footer {
+	margin-top: 50px;
+	border-top: 1px solid gray;
+}
+#scheduleTable {
+	width: 100%;
+}
+#schedule table, th, td {
+	border: 1px solid black;
+}
+.time {
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+}
